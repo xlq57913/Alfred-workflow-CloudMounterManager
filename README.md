@@ -11,5 +11,5 @@ Type **cm** into Alfred and press **spaceBar** to see the two option for mount/u
 
 ## Reference
 
-[alfred-vpn-manager](https://github.com/deanishe/alfred-vpn-manager)
+* [alfred-vpn-manager](https://github.com/deanishe/alfred-vpn-manager)
 
